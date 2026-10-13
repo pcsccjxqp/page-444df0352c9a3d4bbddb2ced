@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "75ba1886fc1800cba2805908",
+  "owner": "pcsccjxqp",
+  "repo": "page-444df0352c9a3d4bbddb2ced",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "444df0352c9a3d4bbddb2ced",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d44eb7871e5d176ee841f07c26a108d0a9831650d7f57b7c2fb1ed9d4e03faf1",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单为您提供专业机场订阅服务，支持基础版、旗舰版、团队版套餐，官网提供安全客户端下载，帮助您畅享高速网络加速和流媒体解锁。",
+          "AI_DESCRIPTION": "机场榜单为您提供专业机场订阅服务，支持基础版、旗舰版、团队版套餐，官网提供安全客户端下载，帮助您畅享高速网络加速和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n<style>\n* { box-sizing: border-box; }\nbody {\nfont-family: 'Microsoft YaHei', Arial, sans-serif;\nbackground: linear-gradient(#0A2540, #001F3F);\ncolor: #E0F7FA;\nmargin: 0;\npadding: 20px;\nline-height: 1.6;\n}\nmain {\nmax-width: 1200px;\nmargin: 0 auto;\n}\nh1 {\ncolor: #00D4FF;\ntext-align: center;\nfont-size: 2.8rem;\nmargin-bottom: 30px;\n}\nsection {\nmargin-bottom: 40px;\npadding: 30px;\nbackground: #001F3F;\nborder-radius: 10px;\nborder: 2px solid #00D4FF;\n}\n.plan-grid {\ndisplay: flex;\nflex-wrap: wrap;\ngap: 20px;\n}\n.plan-card {\nflex: 1 1 300px;\nbackground: #001F3F;\nborder: 1px solid #00D4FF;\nborder-radius: 8px;\npadding: 20px;\ntransition: transform 0.2s;\n}\n.plan-card:hover {\ntransform: translateY(-5px);\n}\n.plan-card.featured {\nbackground: linear-gradient(45deg, #00BFFF, #008B8B);\nbox-shadow: 0 0 20px rgba(0,212,255,0.6);\n}\nh2 {\ncolor: #00D4FF;\nfont-size: 1.8rem;\nmargin-top: 0;\nmargin-bottom: 15px;\n}\nul, ol {\npadding-left: 20px;\n}\nli {\nmargin: 12px 0;\n}\ndetails {\nmargin: 15px 0;\nbackground: #001F3F;\npadding: 15px;\nborder-radius: 8px;\n}\ndetails summary {\nfont-weight: bold;\ncolor: #00D4FF;\ncursor: pointer;\nfont-size: 1.2rem;\n}\ndetails summary::-webkit-details-marker {\ndisplay: none;\n}\na {\ncolor: #00D4FF;\ntext-decoration: none;\n}\na:hover {\ntext-decoration: underline;\n}\n@media (max-width: 768px) {\nbody { padding: 10px; }\nh1 { font-size: 2rem; }\n.plan-grid { flex-direction: column; }\nsection { padding: 20px; }\n}\n</style>\n\n\n<main>\n<h1>机场榜单</h1>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>机场榜单是专业VPN机场订阅平台，专注为用户提供高速稳定线路与便捷加速工具。我们筛选优质节点，助力畅享无障碍网络体验。</p>\n</section>\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<p>机场榜单适用于以下网络需求：</p>\n<ul>\n<li>流媒体解锁：原生支持Netflix、YouTube、Disney+ 等平台内容访问。</li>\n<li>游戏加速：IPLC专线优化延迟，带来实时流畅游戏体验。</li>\n<li>隐私保护：加密传输保障信息安全。</li>\n<li>远程办公：稳定连接避免中断。</li>\n<li>海外访问：轻松浏览被屏蔽网站与应用。</li>\n</ul>\n</section>\n<section id=\"operation\">\n<h2>操作说明</h2>\n<ol>\n<li>选择适合的套餐并完成支付。</li>\n<li>访问官网获取最新客户端下载。</li>\n<li>安装客户端后导入订阅链接。</li>\n<li>选择节点连接即可享受加速。</li>\n</ol>\n</section>\n<section id=\"plans\">\n<h2>套餐选择</h2>\n<div class=\"plan-grid\">\n<div class=\"plan-card\">\n<h3>基础版</h3>\n<p>¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<p>每月 100GB 极速流量</p>\n<p>支持 3 台设备同时在线</p>\n<p>解锁基础流媒体</p>\n<p>普通线路节点池</p>\n</div>\n<div class=\"plan-card featured\">\n<h3>旗舰版</h3>\n<p>¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<p>每月 300GB 极速流量</p>\n<p>支持 5 台设备同时在线</p>\n<p>全节点原生流媒体解锁</p>\n<p>IPLC 专线游戏加速优化</p>\n<p>7x24 优先工单支持</p>\n</div>\n<div class=\"plan-card\">\n<h3>团队版</h3>\n<p>¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<p>每月 1000GB 极速流量</p>\n<p>支持 20 台设备同时在线</p>\n<p>VIP 专属高带宽节点</p>\n<p>支持企业定制路由</p>\n<p>专属客户经理服务</p>\n</div>\n</div>\n</section>\n<section id=\"download\">\n<h2>客户端下载</h2>\n<p>机场榜单官网提供安全可靠的客户端下载，助您快速连接加速网络。立即访问官网获取最新版本。</p>\n<p><a href=\"#\">客户端下载</a></p>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>什么是机场榜单？</summary>\n<p>机场榜单是专业的VPN机场订阅平台，提供多种高质量线路与套餐，帮助用户实现高速网络加速和内容解锁。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>根据需求与预算选择：基础版适合个人使用，旗舰版适合游戏加速需求，团队版适合多人共享或企业场景。</p>\n</details>\n<details>\n<summary>客户端如何下载？</summary>\n<p>在官网或套餐页面找到安全下载链接，下载后安装使用，无需担心安全问题。</p>\n</details>\n<details>\n<summary>支持多少设备同时在线？</summary>\n<p>基础版支持3台，旗舰版支持5台，团队版支持20台，具体以所选套餐为准。</p>\n</details>\n<details>\n<summary>年付与月付有什么区别？</summary>\n<p>按年付仅需相应年付价格，大幅节省费用，适合长期稳定使用。</p>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "34576ea08a6d2aeccbf8412d138c59fbab1a17b4094f5c5022747f8e6cae689f",
+          "seo": {
+            "title": "机场榜单 - 机场订阅与VPN加速客户端下载",
+            "keywords": "机场榜单,机场订阅,VPN加速,客户端下载,加速器,官网下载",
+            "description": "机场榜单为您提供专业机场订阅服务，支持基础版、旗舰版、团队版套餐，官网提供安全客户端下载，帮助您畅享高速网络加速和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ey777.cn",
+    "host": "p-d1126028a7.ey777.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "da9eccda18334de5bfd9d4a377715374ba9f9cfeab27265ca35511358e6e2eb4",
+    "sitemap.xml": "bdc71a0800340bbe7c80be0af0e447917af6364b4355a708274a981a2ab3e022",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2657068051cac960b90e6c77af76400241b8febc55d5fc99194502eeab6cf8cc",
+    "robots.txt": "20d2c4550dbb798df2de0f120a9e470b616637a49b9c342bf9185f46e8a3dea2",
+    "d599b322ead6786a6148e3e78b11bfa3.txt": "4c2f9411a60c4c8eebc18a617d0218dd6240994be7d0a4fcfb647d918b9d090b"
+  },
+  "revision": "50a4fe5c114ac1f3779714c42485f6b5cfb1f154e98b5a38c5bb741f2b0fa18d"
+}
